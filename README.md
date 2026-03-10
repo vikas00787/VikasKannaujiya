@@ -5,8 +5,8 @@
 ### 🚀 Java Full Stack Developer
 
 - 💻 I’m currently learning **Java Full Stack Development**
-- 🌱 Technologies: **Java, Spring Boot, React, MySQL**
-- 📫 How to reach me: **your-email@gmail.com**
+- 🌱 Technologies: **Java, Spring Boot, React, MySQL, MongoDB, **
+- 📫 How to reach me: **your-vikas994.vk@gmail.com**
 
 ---
 
@@ -21,4 +21,4 @@
 ### 🌐 Connect with me
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/)
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/) pura ek saath daal dun 
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/) 
