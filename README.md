@@ -61,6 +61,3 @@
 <img src="https://skillicons.dev/icons?i=instagram" height="40"/> Instagram
 </a>
 </p>
-
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/) LinkedIn
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/) Instagram
