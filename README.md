@@ -20,24 +20,24 @@
 
 ### 🏅 Certifications
 
-[![Credly](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/credly.svg)](https://www.credly.com/go/kJkrMPgN)
+[![Credly](https://img.shields.io/badge/Credly-Certification-orange?style=for-the-badge\&logo=credly)](https://www.credly.com/go/kJkrMPgN)
 
-[![NPTEL](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/openaccess.svg)](https://archive.nptel.ac.in/noc/Ecertificate/?q=NPTEL25CS57S124570075004437539)
+[![NPTEL](https://img.shields.io/badge/NPTEL-Certificate-blue?style=for-the-badge\&logo=google-scholar)](https://archive.nptel.ac.in/noc/Ecertificate/?q=NPTEL25CS57S124570075004437539)
 
 ---
 
 ### 💻 Coding Profiles
 
-[![HackerRank](https://skillicons.dev/icons?i=hackerrank)](https://www.hackerrank.com/profile/vikas994_vk)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge\&logo=hackerrank)](https://www.hackerrank.com/profile/vikas994_vk)
 
-[![LeetCode](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg)](https://leetcode.com/u/Vika007/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge\&logo=leetcode)](https://leetcode.com/u/Vika007/)
 
-[![NeetCode](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codeforces.svg)](https://neetcode.io/practice/practice/coreSkills)
+[![NeetCode](https://img.shields.io/badge/NeetCode-Practice-blue?style=for-the-badge\&logo=codeforces)](https://neetcode.io/practice/practice/coreSkills)
 
 ---
 
 ### 🌐 Connect with me
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge\&logo=linkedin)](https://linkedin.com/)
 
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge\&logo=instagram)](https://instagram.com/)
